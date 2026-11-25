@@ -1,0 +1,7 @@
+{
+  "name": "sicpat-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
